@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsinghsengar" alt="pranjalsinghsengar" /></a> </p>
 
-- 🔭 I’m currently working on **FireBase** :: 📫 How to reach me **pranjalsinghsengar94@gmail.com**
+- 🔭 I’m currently working on **NodeJS, Redux** :: 📫 How to reach me **pranjalsinghsengar94@gmail.com**
 
 
 <h3 align="center">Connect with me:</h3>
