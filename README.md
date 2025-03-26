@@ -3,8 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjalsinghsengar" alt="pranjalsinghsengar" /></a> </p>
 
-- 🔭 I’m currently working on **NodeJS, Redux** :: 📫 How to reach me **pranjalsinghsengar94@gmail.com**
-
+- 🔭 I'm currently working on **NodeJS, Docker, GCP, Redis**
+- 📫 How to reach me: **pranjalsinghsengar94@gmail.com**
+- 🔭 **Here is my resume:** [Open](https://drive.google.com/file/d/1JqKy9c40j6kGIdYK_lLUyGPPc10gKIb-/view)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
